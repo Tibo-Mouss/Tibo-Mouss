@@ -2,11 +2,18 @@
     <img src="./Untitled.png" alt="Profile Image"/>
 </p>
 
-<p style="text-align:center; font-size:40px;">
-    <a href="https://tibo-mouss.github.io/?ref=github" style="color:green; font-weight:bold;">
-        〰 〰 〰 📜 Portfolio 📜 〰 〰 〰
-    </a>
+<!-- <p style="text-align:center; font-size:40px;">
+    <a href="https://tibo-mouss.github.io/?ref=github" style="color:green; font-weight:bold;"> -->
+        
+<!-- </a>
+</p> -->
+<p align="center">
+
+    〰 〰 〰 📜 Portfolio 📜 〰 〰 〰
+
 </p>
+
+
 
 <p style="font-size:20px">
     • 💻 Work at <a href="https://www.justwatch.com"> Justwatch </a> the day 
@@ -55,5 +62,5 @@
 
 
 <p align="left">
-<a href="https://www.linkedin.com/" target="blank"><img align="center" src="./LI-Logo.png" width="150" /></a>
+<a href="https://www.linkedin.com/in/thibault-mousset/" target="blank"><img align="center" src="./LI-Logo.png" width="150" /></a>
 </p>
