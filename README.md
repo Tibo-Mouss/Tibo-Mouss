@@ -5,14 +5,15 @@
 
 <h1 align="center">
     <a href="https://tibo-mouss.github.io/?ref=github">
-        〰 〰 〰 📜 Portfolio 📜 〰 〰 〰
+        〰 〰 〰 📜 Portfolio 📜 〰 〰 〰 
     </a>
+    <br> <br>
 </h1>
 
 
 
 <h2>
-    • 💻 Work at <a href="https://www.justwatch.com"> Justwatch </a> the day 
+    • 💻 Working at <a href="https://www.justwatch.com"> Justwatch </a> during the day 
     <br> <br>
     • 🎮 Working on Esports Events at Night 🦹‍♂️
     <br> <br>
