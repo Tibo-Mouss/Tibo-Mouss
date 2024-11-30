@@ -13,9 +13,11 @@
 
 <h2>
     • 💻 Work at <a href="https://www.justwatch.com"> Justwatch </a> the day 
-    <br>
+    <br> <br>
     • 🎮 Working on Esports Events at Night 🦹‍♂️
-    <br>
+    <br> <br>
+    • 🐱‍👤 One day I'll do great stuff
+    <br> <br>
 </h2>
 
 
