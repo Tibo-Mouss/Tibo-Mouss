@@ -2,11 +2,7 @@
     <img src="./Untitled.png" alt="Profile Image"/>
 </p>
 
-<!-- <p style="text-align:center; font-size:40px;">
-    <a href="https://tibo-mouss.github.io/?ref=github" style="color:green; font-weight:bold;"> -->
-        
-<!-- </a>
-</p> -->
+
 <h1 align="center">
     <a href="https://tibo-mouss.github.io/?ref=github">
         〰 〰 〰 📜 Portfolio 📜 〰 〰 〰
@@ -15,12 +11,12 @@
 
 
 
-<p style="font-size:20px">
+<h2>
     • 💻 Work at <a href="https://www.justwatch.com"> Justwatch </a> the day 
     <br>
     • 🎮 Working on Esports Events at Night 🦹‍♂️
     <br>
-</p>
+</h2>
 
 
 <p align="center">
